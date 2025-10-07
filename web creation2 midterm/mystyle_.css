@@ -1,0 +1,22 @@
+<style>
+/* Header/logo Title */
+.header {
+  padding: 100px;
+  text-align: left;
+  background: rgb(22,98,146);
+  color: red;
+ 
+}
+.header h1 {
+  font-size: 40px;
+  text-align: left;
+}
+.header form {
+ font-size: 10px;
+ text-align: right;
+ }
+.header h2 {
+padding: 5px;
+font-size: 500px;
+}
+</style>
